@@ -24,7 +24,7 @@ This script extracts vibrational frequencies by applying a Fourier transform to 
 
 2. **Signal Preparation**  
    - Select only the OH and CH₃ atoms (by their indices) from the trajectory frames.  
-   - Compute displacements or velocities for each bond vector as a function of time.
+   - Compute displacements for each bond vector as a function of time.
 
 3. **Fourier Transform**  
    - Apply a discrete Fourier transform (via NumPy’s FFT) to each time‑series.  
@@ -41,13 +41,32 @@ This script extracts vibrational frequencies by applying a Fourier transform to 
 
 ## Global Variables
 
+Control analysis behavior via user-defined variables in your environment or `submit.sh` file.
 
-Specify which functional groups to analyze: OH, CH3, or BOTH
-MODE = "number"        # options: "1", "2", "3", "4"
+```bash
+# ***** USER-DEFINED VARIABLES *****
+# Set simulation frame range (modify these numbers before submission)
+START_FRAME=5000
+FINISH_FRAME=100000
+# ***********************************
+
+# Based on the command-line argument (1,2,3,4), the script outputs:
+#  1) Mode 1 (only OH): Bonds: H–O and O–Si, Angle: H–O–Si.
+#  2) Mode 2 (only CH3): Bonds: C–H (for each H in CH3) and C–Si;
+#       Angles: all H–C–H combinations and H–C–Si angles.
+#  3) Mode 3 (only surface angles): Angles at the Si center between any two functional groups.
+#  4) Mode 4 (all): Both groups’ bonds/angles plus the surface angles.
+
+# Example invocation for Mode 4:
+echo "Running find_indices.py to extract H atom indices..."
+python find_indices.py 4
+
 
 Input and output filenames (optional overrides)
 INPUT_XDATCAR = "XDATCAR"
-OUTPUT_SPECTRUM = "spectrum.csv"
+OUTPUT_SPECTRUM = "output_average.dat"
+
+```
 
 ## How to Cite
 
