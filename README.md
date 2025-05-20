@@ -81,5 +81,5 @@ If you use this code in your work, please cite it using the following BibTeX ent
   url          = {https://github.com/eustrugovshchikov/Vibrational\_OH\_CH3\_SiO2\_VASP},
   note         = {Accessed: May 19, 2025},
 }
-
+```
 
