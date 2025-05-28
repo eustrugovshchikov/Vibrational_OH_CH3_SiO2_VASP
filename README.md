@@ -68,6 +68,44 @@ OUTPUT_SPECTRUM = "output_average.dat"
 
 ```
 
+## Examples
+
+To run an example:
+
+1. **Download and unpack**  
+   - Download the `EXAMPLES` folder from this repository.  
+   - Unpack the `XDATCAR` file into the same directory.
+
+2. **Edit the SLURM script**  
+   - Open the provided `submit.sh` script.  
+   - Adjust the `#SBATCH` directives to match your cluster’s account, partition, node, and time limits.  
+   - Ensure you load the correct Python module for your environment.
+
+```bash
+#!/bin/bash -x 
+#SBATCH --account=dcc70
+#SBATCH --partition=mylemta
+#SBATCH --job-name=FFT
+#SBATCH --output=slurm-%x.%N.%j.out 
+#SBATCH --error=slurm-%x.%N.%j.err 
+#SBATCH --nodes=1
+#SBATCH --ntasks=32
+#SBATCH --ntasks-per-node=32
+#SBATCH --cpus-per-task=1
+#SBATCH --time=3-01:00:00
+#SBATCH --exclude=cnd[01-04,06-12]
+
+# Load the Python module.
+module load python/3.6/anaconda
+```
+3. **Submit the job**
+```bash
+sbatch submit.sh
+```
+
+After the script runs, the results will be written to `output_average.dat`.
+
+
 ## How to Cite
 
 If you use this code in your work, please cite it using the following BibTeX entry:
