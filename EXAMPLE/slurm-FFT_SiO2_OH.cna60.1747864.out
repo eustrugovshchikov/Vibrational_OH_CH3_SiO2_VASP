@@ -1,0 +1,1437 @@
+Running find_indices.py to extract H atom indices...
+Processing complete. Output written to config-out.dat.
+Found 238 configuration lines in config-out.dat.
+Launching process_simulation.py in parallel for each configuration...
+Launching configuration 1 with frames 1 to 5000...
+Launching configuration 2 with frames 1 to 5000...
+Launching configuration 3 with frames 1 to 5000...
+Launching configuration 4 with frames 1 to 5000...
+Launching configuration 5 with frames 1 to 5000...
+Launching configuration 6 with frames 1 to 5000...
+Launching configuration 7 with frames 1 to 5000...
+Launching configuration 8 with frames 1 to 5000...
+Launching configuration 9 with frames 1 to 5000...
+Launching configuration 10 with frames 1 to 5000...
+Launching configuration 11 with frames 1 to 5000...
+Launching configuration 12 with frames 1 to 5000...
+Launching configuration 13 with frames 1 to 5000...
+Launching configuration 14 with frames 1 to 5000...
+Launching configuration 15 with frames 1 to 5000...
+Launching configuration 16 with frames 1 to 5000...
+Launching configuration 17 with frames 1 to 5000...
+Launching configuration 18 with frames 1 to 5000...
+Launching configuration 19 with frames 1 to 5000...
+Launching configuration 20 with frames 1 to 5000...
+Launching configuration 21 with frames 1 to 5000...
+Launching configuration 22 with frames 1 to 5000...
+Launching configuration 23 with frames 1 to 5000...
+Launching configuration 24 with frames 1 to 5000...
+Launching configuration 25 with frames 1 to 5000...
+Launching configuration 26 with frames 1 to 5000...
+Launching configuration 27 with frames 1 to 5000...
+Launching configuration 28 with frames 1 to 5000...
+Launching configuration 29 with frames 1 to 5000...
+Launching configuration 30 with frames 1 to 5000...
+Launching configuration 31 with frames 1 to 5000...
+Launching configuration 32 with frames 1 to 5000...
+Launching configuration 33 with frames 1 to 5000...
+Launching configuration 34 with frames 1 to 5000...
+Launching configuration 35 with frames 1 to 5000...
+Launching configuration 36 with frames 1 to 5000...
+Launching configuration 37 with frames 1 to 5000...
+Launching configuration 38 with frames 1 to 5000...
+Launching configuration 39 with frames 1 to 5000...
+Launching configuration 40 with frames 1 to 5000...
+Launching configuration 41 with frames 1 to 5000...
+Launching configuration 42 with frames 1 to 5000...
+Launching configuration 43 with frames 1 to 5000...
+Launching configuration 44 with frames 1 to 5000...
+Launching configuration 45 with frames 1 to 5000...
+Launching configuration 46 with frames 1 to 5000...
+Launching configuration 47 with frames 1 to 5000...
+Launching configuration 48 with frames 1 to 5000...
+Launching configuration 49 with frames 1 to 5000...
+Launching configuration 50 with frames 1 to 5000...
+Launching configuration 51 with frames 1 to 5000...
+Launching configuration 52 with frames 1 to 5000...
+Launching configuration 53 with frames 1 to 5000...
+Launching configuration 54 with frames 1 to 5000...
+Launching configuration 55 with frames 1 to 5000...
+Launching configuration 56 with frames 1 to 5000...
+Launching configuration 57 with frames 1 to 5000...
+Launching configuration 58 with frames 1 to 5000...
+Launching configuration 59 with frames 1 to 5000...
+Launching configuration 60 with frames 1 to 5000...
+Launching configuration 61 with frames 1 to 5000...
+Launching configuration 62 with frames 1 to 5000...
+Launching configuration 63 with frames 1 to 5000...
+Launching configuration 64 with frames 1 to 5000...
+Launching configuration 65 with frames 1 to 5000...
+Launching configuration 66 with frames 1 to 5000...
+Launching configuration 67 with frames 1 to 5000...
+Launching configuration 68 with frames 1 to 5000...
+Launching configuration 69 with frames 1 to 5000...
+Launching configuration 70 with frames 1 to 5000...
+Launching configuration 71 with frames 1 to 5000...
+Launching configuration 72 with frames 1 to 5000...
+Launching configuration 73 with frames 1 to 5000...
+Launching configuration 74 with frames 1 to 5000...
+Launching configuration 75 with frames 1 to 5000...
+Launching configuration 76 with frames 1 to 5000...
+Launching configuration 77 with frames 1 to 5000...
+Launching configuration 78 with frames 1 to 5000...
+Launching configuration 79 with frames 1 to 5000...
+Launching configuration 80 with frames 1 to 5000...
+Launching configuration 81 with frames 1 to 5000...
+Launching configuration 82 with frames 1 to 5000...
+Launching configuration 83 with frames 1 to 5000...
+Launching configuration 84 with frames 1 to 5000...
+Launching configuration 85 with frames 1 to 5000...
+Launching configuration 86 with frames 1 to 5000...
+Launching configuration 87 with frames 1 to 5000...
+Launching configuration 88 with frames 1 to 5000...
+Launching configuration 89 with frames 1 to 5000...
+Launching configuration 90 with frames 1 to 5000...
+Launching configuration 91 with frames 1 to 5000...
+Launching configuration 92 with frames 1 to 5000...
+Launching configuration 93 with frames 1 to 5000...
+Launching configuration 94 with frames 1 to 5000...
+Launching configuration 95 with frames 1 to 5000...
+Launching configuration 96 with frames 1 to 5000...
+Launching configuration 97 with frames 1 to 5000...
+Launching configuration 98 with frames 1 to 5000...
+Launching configuration 99 with frames 1 to 5000...
+Launching configuration 100 with frames 1 to 5000...
+Launching configuration 101 with frames 1 to 5000...
+Launching configuration 102 with frames 1 to 5000...
+Launching configuration 103 with frames 1 to 5000...
+Launching configuration 104 with frames 1 to 5000...
+Launching configuration 105 with frames 1 to 5000...
+Launching configuration 106 with frames 1 to 5000...
+Launching configuration 107 with frames 1 to 5000...
+Launching configuration 108 with frames 1 to 5000...
+Launching configuration 109 with frames 1 to 5000...
+Launching configuration 110 with frames 1 to 5000...
+Launching configuration 111 with frames 1 to 5000...
+Launching configuration 112 with frames 1 to 5000...
+Launching configuration 113 with frames 1 to 5000...
+Launching configuration 114 with frames 1 to 5000...
+Launching configuration 115 with frames 1 to 5000...
+Launching configuration 116 with frames 1 to 5000...
+Launching configuration 117 with frames 1 to 5000...
+Launching configuration 118 with frames 1 to 5000...
+Launching configuration 119 with frames 1 to 5000...
+Launching configuration 120 with frames 1 to 5000...
+Launching configuration 121 with frames 1 to 5000...
+Launching configuration 122 with frames 1 to 5000...
+Launching configuration 123 with frames 1 to 5000...
+Launching configuration 124 with frames 1 to 5000...
+Launching configuration 125 with frames 1 to 5000...
+Launching configuration 126 with frames 1 to 5000...
+Launching configuration 127 with frames 1 to 5000...
+Launching configuration 128 with frames 1 to 5000...
+Launching configuration 129 with frames 1 to 5000...
+Launching configuration 130 with frames 1 to 5000...
+Launching configuration 131 with frames 1 to 5000...
+Launching configuration 132 with frames 1 to 5000...
+Launching configuration 133 with frames 1 to 5000...
+Launching configuration 134 with frames 1 to 5000...
+Launching configuration 135 with frames 1 to 5000...
+Launching configuration 136 with frames 1 to 5000...
+Launching configuration 137 with frames 1 to 5000...
+Launching configuration 138 with frames 1 to 5000...
+Launching configuration 139 with frames 1 to 5000...
+Launching configuration 140 with frames 1 to 5000...
+Launching configuration 141 with frames 1 to 5000...
+Launching configuration 142 with frames 1 to 5000...
+Launching configuration 143 with frames 1 to 5000...
+Launching configuration 144 with frames 1 to 5000...
+Launching configuration 145 with frames 1 to 5000...
+Launching configuration 146 with frames 1 to 5000...
+Launching configuration 147 with frames 1 to 5000...
+Launching configuration 148 with frames 1 to 5000...
+Launching configuration 149 with frames 1 to 5000...
+Launching configuration 150 with frames 1 to 5000...
+Launching configuration 151 with frames 1 to 5000...
+Launching configuration 152 with frames 1 to 5000...
+Launching configuration 153 with frames 1 to 5000...
+Launching configuration 154 with frames 1 to 5000...
+Launching configuration 155 with frames 1 to 5000...
+Launching configuration 156 with frames 1 to 5000...
+Launching configuration 157 with frames 1 to 5000...
+Launching configuration 158 with frames 1 to 5000...
+Launching configuration 159 with frames 1 to 5000...
+Launching configuration 160 with frames 1 to 5000...
+Launching configuration 161 with frames 1 to 5000...
+Launching configuration 162 with frames 1 to 5000...
+Launching configuration 163 with frames 1 to 5000...
+Launching configuration 164 with frames 1 to 5000...
+Launching configuration 165 with frames 1 to 5000...
+Launching configuration 166 with frames 1 to 5000...
+Launching configuration 167 with frames 1 to 5000...
+Launching configuration 168 with frames 1 to 5000...
+Launching configuration 169 with frames 1 to 5000...
+Launching configuration 170 with frames 1 to 5000...
+Launching configuration 171 with frames 1 to 5000...
+Launching configuration 172 with frames 1 to 5000...
+Launching configuration 173 with frames 1 to 5000...
+Launching configuration 174 with frames 1 to 5000...
+Launching configuration 175 with frames 1 to 5000...
+Launching configuration 176 with frames 1 to 5000...
+Launching configuration 177 with frames 1 to 5000...
+Launching configuration 178 with frames 1 to 5000...
+Launching configuration 179 with frames 1 to 5000...
+Launching configuration 180 with frames 1 to 5000...
+Launching configuration 181 with frames 1 to 5000...
+Launching configuration 182 with frames 1 to 5000...
+Launching configuration 183 with frames 1 to 5000...
+Launching configuration 184 with frames 1 to 5000...
+Launching configuration 185 with frames 1 to 5000...
+Launching configuration 186 with frames 1 to 5000...
+Launching configuration 187 with frames 1 to 5000...
+Launching configuration 188 with frames 1 to 5000...
+Launching configuration 189 with frames 1 to 5000...
+Launching configuration 190 with frames 1 to 5000...
+Launching configuration 191 with frames 1 to 5000...
+Launching configuration 192 with frames 1 to 5000...
+Launching configuration 193 with frames 1 to 5000...
+Launching configuration 194 with frames 1 to 5000...
+Launching configuration 195 with frames 1 to 5000...
+Launching configuration 196 with frames 1 to 5000...
+Launching configuration 197 with frames 1 to 5000...
+Launching configuration 198 with frames 1 to 5000...
+Launching configuration 199 with frames 1 to 5000...
+Launching configuration 200 with frames 1 to 5000...
+Launching configuration 201 with frames 1 to 5000...
+Launching configuration 202 with frames 1 to 5000...
+Launching configuration 203 with frames 1 to 5000...
+Launching configuration 204 with frames 1 to 5000...
+Launching configuration 205 with frames 1 to 5000...
+Launching configuration 206 with frames 1 to 5000...
+Launching configuration 207 with frames 1 to 5000...
+Launching configuration 208 with frames 1 to 5000...
+Launching configuration 209 with frames 1 to 5000...
+Launching configuration 210 with frames 1 to 5000...
+Launching configuration 211 with frames 1 to 5000...
+Launching configuration 212 with frames 1 to 5000...
+Launching configuration 213 with frames 1 to 5000...
+Launching configuration 214 with frames 1 to 5000...
+Launching configuration 215 with frames 1 to 5000...
+Launching configuration 216 with frames 1 to 5000...
+Launching configuration 217 with frames 1 to 5000...
+Launching configuration 218 with frames 1 to 5000...
+Launching configuration 219 with frames 1 to 5000...
+Launching configuration 220 with frames 1 to 5000...
+Launching configuration 221 with frames 1 to 5000...
+Launching configuration 222 with frames 1 to 5000...
+Launching configuration 223 with frames 1 to 5000...
+Launching configuration 224 with frames 1 to 5000...
+Launching configuration 225 with frames 1 to 5000...
+Launching configuration 226 with frames 1 to 5000...
+Launching configuration 227 with frames 1 to 5000...
+Launching configuration 228 with frames 1 to 5000...
+Launching configuration 229 with frames 1 to 5000...
+Launching configuration 230 with frames 1 to 5000...
+Launching configuration 231 with frames 1 to 5000...
+Launching configuration 232 with frames 1 to 5000...
+Launching configuration 233 with frames 1 to 5000...
+Launching configuration 234 with frames 1 to 5000...
+Launching configuration 235 with frames 1 to 5000...
+Launching configuration 236 with frames 1 to 5000...
+Launching configuration 237 with frames 1 to 5000...
+Launching configuration 238 with frames 1 to 5000...
+Processing configuration 9 with mode: angle and atom indices: [194, 175, 15]
+Angle at first step for configuration 9: 114.96 deg
+Geometry data for configuration 9 written to geo_9.dat
+Fourier Transform data for configuration 9 written to output_9.dat
+Total processing time: 4.587023735046387
+Processing configuration 1 with mode: bond and atom indices: [192, 173]
+Bond length at first step for configuration 1: 0.98 A
+Geometry data for configuration 1 written to geo_1.dat
+Fourier Transform data for configuration 1 written to output_1.dat
+Total processing time: 4.425063133239746
+Processing configuration 5 with mode: bond and atom indices: [174, 9]
+Bond length at first step for configuration 5: 1.62 A
+Geometry data for configuration 5 written to geo_5.dat
+Fourier Transform data for configuration 5 written to output_5.dat
+Total processing time: 4.373218774795532
+Processing configuration 2 with mode: bond and atom indices: [173, 3]
+Bond length at first step for configuration 2: 1.67 A
+Geometry data for configuration 2 written to geo_2.dat
+Fourier Transform data for configuration 2 written to output_2.dat
+Total processing time: 4.4339001178741455
+Processing configuration 12 with mode: angle and atom indices: [195, 176, 21]
+Angle at first step for configuration 12: 116.24 deg
+Geometry data for configuration 12 written to geo_12.dat
+Fourier Transform data for configuration 12 written to output_12.dat
+Total processing time: 4.695082902908325
+Processing configuration 13 with mode: bond and atom indices: [196, 177]
+Bond length at first step for configuration 13: 0.97 A
+Geometry data for configuration 13 written to geo_13.dat
+Fourier Transform data for configuration 13 written to output_13.dat
+Total processing time: 4.494694471359253
+Processing configuration 10 with mode: bond and atom indices: [195, 176]
+Bond length at first step for configuration 10: 0.96 A
+Geometry data for configuration 10 written to geo_10.dat
+Fourier Transform data for configuration 10 written to output_10.dat
+Total processing time: 4.40936017036438
+Processing configuration 6 with mode: angle and atom indices: [193, 174, 9]
+Angle at first step for configuration 6: 118.98 deg
+Geometry data for configuration 6 written to geo_6.dat
+Fourier Transform data for configuration 6 written to output_6.dat
+Total processing time: 4.6168036460876465
+Processing configuration 4 with mode: bond and atom indices: [193, 174]
+Bond length at first step for configuration 4: 0.97 A
+Geometry data for configuration 4 written to geo_4.dat
+Fourier Transform data for configuration 4 written to output_4.dat
+Total processing time: 4.463493347167969
+Processing configuration 16 with mode: bond and atom indices: [197, 178]
+Bond length at first step for configuration 16: 0.97 A
+Geometry data for configuration 16 written to geo_16.dat
+Fourier Transform data for configuration 16 written to output_16.dat
+Total processing time: 4.409060716629028
+Processing configuration 3 with mode: angle and atom indices: [192, 173, 3]
+Angle at first step for configuration 3: 112.32 deg
+Geometry data for configuration 3 written to geo_3.dat
+Fourier Transform data for configuration 3 written to output_3.dat
+Total processing time: 4.834527969360352
+Processing configuration 7 with mode: bond and atom indices: [194, 175]
+Bond length at first step for configuration 7: 0.97 A
+Geometry data for configuration 7 written to geo_7.dat
+Fourier Transform data for configuration 7 written to output_7.dat
+Total processing time: 4.441737174987793
+Processing configuration 11 with mode: bond and atom indices: [176, 21]
+Bond length at first step for configuration 11: 1.64 A
+Geometry data for configuration 11 written to geo_11.dat
+Fourier Transform data for configuration 11 written to output_11.dat
+Total processing time: 4.516310930252075
+Processing configuration 8 with mode: bond and atom indices: [175, 15]
+Bond length at first step for configuration 8: 1.64 A
+Geometry data for configuration 8 written to geo_8.dat
+Fourier Transform data for configuration 8 written to output_8.dat
+Total processing time: 4.560974836349487
+Processing configuration 18 with mode: angle and atom indices: [197, 178, 33]
+Angle at first step for configuration 18: 116.62 deg
+Geometry data for configuration 18 written to geo_18.dat
+Fourier Transform data for configuration 18 written to output_18.dat
+Total processing time: 4.527416467666626
+Processing configuration 48 with mode: angle and atom indices: [231, 188, 60]
+Angle at first step for configuration 48: 115.70 deg
+Geometry data for configuration 48 written to geo_48.dat
+Fourier Transform data for configuration 48 written to output_48.dat
+Total processing time: 4.51834774017334
+Processing configuration 31 with mode: bond and atom indices: [226, 183]
+Bond length at first step for configuration 31: 0.97 A
+Geometry data for configuration 31 written to geo_31.dat
+Fourier Transform data for configuration 31 written to output_31.dat
+Total processing time: 4.520965814590454
+Processing configuration 29 with mode: bond and atom indices: [172, 9]
+Bond length at first step for configuration 29: 1.64 A
+Geometry data for configuration 29 written to geo_29.dat
+Fourier Transform data for configuration 29 written to output_29.dat
+Total processing time: 4.535319805145264
+Processing configuration 28 with mode: bond and atom indices: [216, 172]
+Bond length at first step for configuration 28: 1.00 A
+Geometry data for configuration 28 written to geo_28.dat
+Fourier Transform data for configuration 28 written to output_28.dat
+Total processing time: 4.552428245544434
+Processing configuration 15 with mode: angle and atom indices: [196, 177, 27]
+Angle at first step for configuration 15: 115.13 deg
+Geometry data for configuration 15 written to geo_15.dat
+Fourier Transform data for configuration 15 written to output_15.dat
+Total processing time: 4.555299997329712
+Processing configuration 20 with mode: bond and atom indices: [179, 39]
+Bond length at first step for configuration 20: 1.63 A
+Geometry data for configuration 20 written to geo_20.dat
+Fourier Transform data for configuration 20 written to output_20.dat
+Total processing time: 4.600543260574341
+Processing configuration 32 with mode: bond and atom indices: [183, 55]
+Bond length at first step for configuration 32: 1.64 A
+Geometry data for configuration 32 written to geo_32.dat
+Fourier Transform data for configuration 32 written to output_32.dat
+Total processing time: 4.5927040576934814
+Processing configuration 14 with mode: bond and atom indices: [177, 27]
+Bond length at first step for configuration 14: 1.63 A
+Geometry data for configuration 14 written to geo_14.dat
+Fourier Transform data for configuration 14 written to output_14.dat
+Total processing time: 4.607117652893066
+Processing configuration 21 with mode: angle and atom indices: [198, 179, 39]
+Angle at first step for configuration 21: 116.28 deg
+Geometry data for configuration 21 written to geo_21.dat
+Fourier Transform data for configuration 21 written to output_21.dat
+Total processing time: 4.741479396820068
+Processing configuration 27 with mode: angle and atom indices: [200, 181, 51]
+Angle at first step for configuration 27: 125.32 deg
+Geometry data for configuration 27 written to geo_27.dat
+Fourier Transform data for configuration 27 written to output_27.dat
+Total processing time: 4.755610942840576
+Processing configuration 30 with mode: angle and atom indices: [216, 172, 9]
+Angle at first step for configuration 30: 112.43 deg
+Geometry data for configuration 30 written to geo_30.dat
+Fourier Transform data for configuration 30 written to output_30.dat
+Total processing time: 4.754544496536255
+Processing configuration 23 with mode: bond and atom indices: [180, 45]
+Bond length at first step for configuration 23: 1.64 A
+Geometry data for configuration 23 written to geo_23.dat
+Fourier Transform data for configuration 23 written to output_23.dat
+Total processing time: 4.825026750564575
+Processing configuration 22 with mode: bond and atom indices: [199, 180]
+Bond length at first step for configuration 22: 0.97 A
+Geometry data for configuration 22 written to geo_22.dat
+Fourier Transform data for configuration 22 written to output_22.dat
+Total processing time: 4.945558547973633
+Processing configuration 24 with mode: angle and atom indices: [199, 180, 45]
+Angle at first step for configuration 24: 115.34 deg
+Geometry data for configuration 24 written to geo_24.dat
+Fourier Transform data for configuration 24 written to output_24.dat
+Total processing time: 4.833246469497681
+Processing configuration 17 with mode: bond and atom indices: [178, 33]
+Bond length at first step for configuration 17: 1.65 A
+Geometry data for configuration 17 written to geo_17.dat
+Fourier Transform data for configuration 17 written to output_17.dat
+Total processing time: 4.852167367935181
+Processing configuration 19 with mode: bond and atom indices: [198, 179]
+Bond length at first step for configuration 19: 1.00 A
+Geometry data for configuration 19 written to geo_19.dat
+Fourier Transform data for configuration 19 written to output_19.dat
+Total processing time: 5.150055885314941
+Processing configuration 26 with mode: bond and atom indices: [181, 51]
+Bond length at first step for configuration 26: 1.63 A
+Geometry data for configuration 26 written to geo_26.dat
+Fourier Transform data for configuration 26 written to output_26.dat
+Total processing time: 5.044743299484253
+Processing configuration 25 with mode: bond and atom indices: [200, 181]
+Bond length at first step for configuration 25: 0.97 A
+Geometry data for configuration 25 written to geo_25.dat
+Fourier Transform data for configuration 25 written to output_25.dat
+Total processing time: 4.545242786407471
+Processing configuration 62 with mode: bond and atom indices: [260, 202]
+Bond length at first step for configuration 62: 1.11 A
+Geometry data for configuration 62 written to geo_62.dat
+Fourier Transform data for configuration 62 written to output_62.dat
+Total processing time: 4.392247915267944
+Processing configuration 76 with mode: angle and atom indices: [204, 261, 206]
+Angle at first step for configuration 76: 110.41 deg
+Geometry data for configuration 76 written to geo_76.dat
+Fourier Transform data for configuration 76 written to output_76.dat
+Total processing time: 4.428663492202759
+Processing configuration 61 with mode: bond and atom indices: [260, 201]
+Bond length at first step for configuration 61: 1.10 A
+Geometry data for configuration 61 written to geo_61.dat
+Fourier Transform data for configuration 61 written to output_61.dat
+Total processing time: 4.411582946777344
+Processing configuration 49 with mode: bond and atom indices: [232, 189]
+Bond length at first step for configuration 49: 1.00 A
+Geometry data for configuration 49 written to geo_49.dat
+Fourier Transform data for configuration 49 written to output_49.dat
+Total processing time: 4.465439081192017
+Processing configuration 38 with mode: bond and atom indices: [185, 57]
+Bond length at first step for configuration 38: 1.63 A
+Geometry data for configuration 38 written to geo_38.dat
+Fourier Transform data for configuration 38 written to output_38.dat
+Total processing time: 4.404435157775879
+Processing configuration 121 with mode: bond and atom indices: [266, 220]
+Bond length at first step for configuration 121: 1.10 A
+Geometry data for configuration 121 written to geo_121.dat
+Fourier Transform data for configuration 121 written to output_121.dat
+Total processing time: 4.438523054122925
+Processing configuration 85 with mode: angle and atom indices: [207, 262, 208]
+Angle at first step for configuration 85: 107.93 deg
+Geometry data for configuration 85 written to geo_85.dat
+Fourier Transform data for configuration 85 written to output_85.dat
+Total processing time: 4.564006567001343
+Processing configuration 98 with mode: angle and atom indices: [210, 263, 33]
+Angle at first step for configuration 98: 108.37 deg
+Geometry data for configuration 98 written to geo_98.dat
+Fourier Transform data for configuration 98 written to output_98.dat
+Total processing time: 4.635955333709717
+Processing configuration 80 with mode: angle and atom indices: [206, 261, 27]
+Angle at first step for configuration 80: 112.46 deg
+Geometry data for configuration 80 written to geo_80.dat
+Fourier Transform data for configuration 80 written to output_80.dat
+Total processing time: 4.682618856430054
+Processing configuration 126 with mode: angle and atom indices: [220, 266, 222]
+Angle at first step for configuration 126: 108.84 deg
+Geometry data for configuration 126 written to geo_126.dat
+Fourier Transform data for configuration 126 written to output_126.dat
+Total processing time: 4.510880947113037
+Processing configuration 148 with mode: angle and atom indices: [235, 268, 58]
+Angle at first step for configuration 148: 108.75 deg
+Geometry data for configuration 148 written to geo_148.dat
+Fourier Transform data for configuration 148 written to output_148.dat
+Total processing time: 4.544279098510742
+Processing configuration 171 with mode: bond and atom indices: [271, 244]
+Bond length at first step for configuration 171: 1.09 A
+Geometry data for configuration 171 written to geo_171.dat
+Fourier Transform data for configuration 171 written to output_171.dat
+Total processing time: 4.494372129440308
+Processing configuration 169 with mode: angle and atom indices: [242, 270, 63]
+Angle at first step for configuration 169: 109.76 deg
+Geometry data for configuration 169 written to geo_169.dat
+Fourier Transform data for configuration 169 written to output_169.dat
+Total processing time: 4.521275997161865
+Processing configuration 108 with mode: angle and atom indices: [213, 264, 15]
+Angle at first step for configuration 108: 109.43 deg
+Geometry data for configuration 108 written to geo_108.dat
+Fourier Transform data for configuration 108 written to output_108.dat
+Total processing time: 4.583342552185059
+Processing configuration 180 with mode: angle and atom indices: [246, 271, 60]
+Angle at first step for configuration 180: 111.42 deg
+Geometry data for configuration 180 written to geo_180.dat
+Fourier Transform data for configuration 180 written to output_180.dat
+Total processing time: 4.575209379196167
+Processing configuration 146 with mode: angle and atom indices: [235, 268, 237]
+Angle at first step for configuration 146: 109.07 deg
+Geometry data for configuration 146 written to geo_146.dat
+Fourier Transform data for configuration 146 written to output_146.dat
+Total processing time: 4.580700397491455
+Processing configuration 44 with mode: bond and atom indices: [187, 59]
+Bond length at first step for configuration 44: 1.63 A
+Geometry data for configuration 44 written to geo_44.dat
+Fourier Transform data for configuration 44 written to output_44.dat
+Total processing time: 4.388980388641357
+Processing configuration 155 with mode: angle and atom indices: [238, 269, 239]
+Angle at first step for configuration 155: 107.90 deg
+Geometry data for configuration 155 written to geo_155.dat
+Fourier Transform data for configuration 155 written to output_155.dat
+Total processing time: 4.611744165420532
+Processing configuration 117 with mode: angle and atom indices: [218, 265, 219]
+Angle at first step for configuration 117: 108.79 deg
+Geometry data for configuration 117 written to geo_117.dat
+Fourier Transform data for configuration 117 written to output_117.dat
+Total processing time: 4.795707702636719
+Processing configuration 183 with mode: bond and atom indices: [272, 249]
+Bond length at first step for configuration 183: 1.11 A
+Geometry data for configuration 183 written to geo_183.dat
+Fourier Transform data for configuration 183 written to output_183.dat
+Total processing time: 4.504262924194336
+Processing configuration 185 with mode: angle and atom indices: [247, 272, 248]
+Angle at first step for configuration 185: 107.52 deg
+Geometry data for configuration 185 written to geo_185.dat
+Fourier Transform data for configuration 185 written to output_185.dat
+Total processing time: 4.513670921325684
+Processing configuration 230 with mode: angle and atom indices: [183, 55, 273]
+Angle at first step for configuration 230: 106.17 deg
+Geometry data for configuration 230 written to geo_230.dat
+Fourier Transform data for configuration 230 written to output_230.dat
+Total processing time: 4.502473592758179
+Processing configuration 50 with mode: bond and atom indices: [189, 61]
+Bond length at first step for configuration 50: 1.63 A
+Geometry data for configuration 50 written to geo_50.dat
+Fourier Transform data for configuration 50 written to output_50.dat
+Total processing time: 4.4852540493011475
+Processing configuration 140 with mode: angle and atom indices: [225, 267, 39]
+Angle at first step for configuration 140: 113.45 deg
+Geometry data for configuration 140 written to geo_140.dat
+Fourier Transform data for configuration 140 written to output_140.dat
+Total processing time: 4.862083196640015
+Processing configuration 86 with mode: angle and atom indices: [207, 262, 209]
+Angle at first step for configuration 86: 109.93 deg
+Geometry data for configuration 86 written to geo_86.dat
+Fourier Transform data for configuration 86 written to output_86.dat
+Total processing time: 4.477654695510864
+Processing configuration 33 with mode: angle and atom indices: [226, 183, 55]
+Angle at first step for configuration 33: 115.86 deg
+Geometry data for configuration 33 written to geo_33.dat
+Fourier Transform data for configuration 33 written to output_33.dat
+Total processing time: 4.525149583816528
+Processing configuration 229 with mode: angle and atom indices: [181, 51, 262]
+Angle at first step for configuration 229: 103.74 deg
+Geometry data for configuration 229 written to geo_229.dat
+Fourier Transform data for configuration 229 written to output_229.dat
+Total processing time: 4.536733150482178
+Processing configuration 227 with mode: angle and atom indices: [179, 39, 267]
+Angle at first step for configuration 227: 111.04 deg
+Geometry data for configuration 227 written to geo_227.dat
+Fourier Transform data for configuration 227 written to output_227.dat
+Total processing time: 4.591915130615234
+Processing configuration 210 with mode: angle and atom indices: [256, 274, 62]
+Angle at first step for configuration 210: 110.28 deg
+Geometry data for configuration 210 written to geo_210.dat
+Fourier Transform data for configuration 210 written to output_210.dat
+Total processing time: 4.531735181808472
+Processing configuration 68 with mode: angle and atom indices: [201, 260, 21]
+Angle at first step for configuration 68: 109.17 deg
+Geometry data for configuration 68 written to geo_68.dat
+Fourier Transform data for configuration 68 written to output_68.dat
+Total processing time: 4.548194885253906
+Processing configuration 39 with mode: angle and atom indices: [228, 185, 57]
+Angle at first step for configuration 39: 116.10 deg
+Geometry data for configuration 39 written to geo_39.dat
+Fourier Transform data for configuration 39 written to output_39.dat
+Total processing time: 5.238866090774536
+Processing configuration 132 with mode: bond and atom indices: [267, 224]
+Bond length at first step for configuration 132: 1.11 A
+Geometry data for configuration 132 written to geo_132.dat
+Fourier Transform data for configuration 132 written to output_132.dat
+Total processing time: 4.4212775230407715
+Processing configuration 97 with mode: angle and atom indices: [211, 263, 212]
+Angle at first step for configuration 97: 109.67 deg
+Geometry data for configuration 97 written to geo_97.dat
+Fourier Transform data for configuration 97 written to output_97.dat
+Total processing time: 4.584485054016113
+Processing configuration 119 with mode: angle and atom indices: [218, 265, 3]
+Angle at first step for configuration 119: 109.35 deg
+Geometry data for configuration 119 written to geo_119.dat
+Fourier Transform data for configuration 119 written to output_119.dat
+Total processing time: 4.457331418991089
+Processing configuration 107 with mode: angle and atom indices: [214, 264, 215]
+Angle at first step for configuration 107: 107.51 deg
+Geometry data for configuration 107 written to geo_107.dat
+Fourier Transform data for configuration 107 written to output_107.dat
+Total processing time: 4.483581066131592
+Processing configuration 149 with mode: angle and atom indices: [236, 268, 58]
+Angle at first step for configuration 149: 109.95 deg
+Geometry data for configuration 149 written to geo_149.dat
+Fourier Transform data for configuration 149 written to output_149.dat
+Total processing time: 4.517959117889404
+Processing configuration 95 with mode: angle and atom indices: [210, 263, 211]
+Angle at first step for configuration 95: 107.78 deg
+Geometry data for configuration 95 written to geo_95.dat
+Fourier Transform data for configuration 95 written to output_95.dat
+Total processing time: 4.723398685455322
+Processing configuration 152 with mode: bond and atom indices: [269, 239]
+Bond length at first step for configuration 152: 1.10 A
+Geometry data for configuration 152 written to geo_152.dat
+Fourier Transform data for configuration 152 written to output_152.dat
+Total processing time: 4.547011613845825
+Processing configuration 129 with mode: angle and atom indices: [221, 266, 45]
+Angle at first step for configuration 129: 110.82 deg
+Geometry data for configuration 129 written to geo_129.dat
+Fourier Transform data for configuration 129 written to output_129.dat
+Total processing time: 4.698663711547852
+Processing configuration 170 with mode: angle and atom indices: [243, 270, 63]
+Angle at first step for configuration 170: 112.92 deg
+Geometry data for configuration 170 written to geo_170.dat
+Fourier Transform data for configuration 170 written to output_170.dat
+Total processing time: 4.445271015167236
+Processing configuration 172 with mode: bond and atom indices: [271, 245]
+Bond length at first step for configuration 172: 1.11 A
+Geometry data for configuration 172 written to geo_172.dat
+Fourier Transform data for configuration 172 written to output_172.dat
+Total processing time: 4.447704076766968
+Processing configuration 212 with mode: bond and atom indices: [275, 258]
+Bond length at first step for configuration 212: 1.11 A
+Geometry data for configuration 212 written to geo_212.dat
+Fourier Transform data for configuration 212 written to output_212.dat
+Total processing time: 4.446731805801392
+Processing configuration 182 with mode: bond and atom indices: [272, 248]
+Bond length at first step for configuration 182: 1.09 A
+Geometry data for configuration 182 written to geo_182.dat
+Fourier Transform data for configuration 182 written to output_182.dat
+Total processing time: 4.4635069370269775
+Processing configuration 176 with mode: angle and atom indices: [244, 271, 246]
+Angle at first step for configuration 176: 108.87 deg
+Geometry data for configuration 176 written to geo_176.dat
+Fourier Transform data for configuration 176 written to output_176.dat
+Total processing time: 4.553250551223755
+Processing configuration 211 with mode: bond and atom indices: [275, 257]
+Bond length at first step for configuration 211: 1.10 A
+Geometry data for configuration 211 written to geo_211.dat
+Fourier Transform data for configuration 211 written to output_211.dat
+Total processing time: 4.696413516998291
+Processing configuration 233 with mode: angle and atom indices: [186, 58, 268]
+Angle at first step for configuration 233: 103.58 deg
+Geometry data for configuration 233 written to geo_233.dat
+Fourier Transform data for configuration 233 written to output_233.dat
+Total processing time: 4.522869348526001
+Processing configuration 235 with mode: angle and atom indices: [188, 60, 271]
+Angle at first step for configuration 235: 107.48 deg
+Geometry data for configuration 235 written to geo_235.dat
+Fourier Transform data for configuration 235 written to output_235.dat
+Total processing time: 4.571362018585205
+Processing configuration 222 with mode: angle and atom indices: [174, 9, 172]
+Angle at first step for configuration 222: 105.47 deg
+Geometry data for configuration 222 written to geo_222.dat
+Fourier Transform data for configuration 222 written to output_222.dat
+Total processing time: 4.593801736831665
+Processing configuration 47 with mode: bond and atom indices: [188, 60]
+Bond length at first step for configuration 47: 1.64 A
+Geometry data for configuration 47 written to geo_47.dat
+Fourier Transform data for configuration 47 written to output_47.dat
+Total processing time: 4.345641374588013
+Processing configuration 60 with mode: angle and atom indices: [250, 182, 56]
+Angle at first step for configuration 60: 112.96 deg
+Geometry data for configuration 60 written to geo_60.dat
+Fourier Transform data for configuration 60 written to output_60.dat
+Total processing time: 4.549984931945801
+Processing configuration 83 with mode: bond and atom indices: [262, 209]
+Bond length at first step for configuration 83: 1.10 A
+Geometry data for configuration 83 written to geo_83.dat
+Fourier Transform data for configuration 83 written to output_83.dat
+Total processing time: 4.450459003448486
+Processing configuration 141 with mode: bond and atom indices: [268, 235]
+Bond length at first step for configuration 141: 1.09 A
+Geometry data for configuration 141 written to geo_141.dat
+Fourier Transform data for configuration 141 written to output_141.dat
+Total processing time: 4.440087556838989
+Processing configuration 77 with mode: angle and atom indices: [205, 261, 206]
+Angle at first step for configuration 77: 108.62 deg
+Geometry data for configuration 77 written to geo_77.dat
+Fourier Transform data for configuration 77 written to output_77.dat
+Total processing time: 4.533838748931885
+Processing configuration 94 with mode: bond and atom indices: [263, 33]
+Bond length at first step for configuration 94: 1.84 A
+Geometry data for configuration 94 written to geo_94.dat
+Fourier Transform data for configuration 94 written to output_94.dat
+Total processing time: 4.3926215171813965
+Processing configuration 92 with mode: bond and atom indices: [263, 211]
+Bond length at first step for configuration 92: 1.11 A
+Geometry data for configuration 92 written to geo_92.dat
+Fourier Transform data for configuration 92 written to output_92.dat
+Total processing time: 4.424217224121094
+Processing configuration 116 with mode: angle and atom indices: [217, 265, 219]
+Angle at first step for configuration 116: 109.18 deg
+Geometry data for configuration 116 written to geo_116.dat
+Fourier Transform data for configuration 116 written to output_116.dat
+Total processing time: 4.484979629516602
+Processing configuration 175 with mode: angle and atom indices: [244, 271, 245]
+Angle at first step for configuration 175: 108.13 deg
+Geometry data for configuration 175 written to geo_175.dat
+Fourier Transform data for configuration 175 written to output_175.dat
+Total processing time: 4.497729539871216
+Processing configuration 57 with mode: angle and atom indices: [234, 191, 63]
+Angle at first step for configuration 57: 123.91 deg
+Geometry data for configuration 57 written to geo_57.dat
+Fourier Transform data for configuration 57 written to output_57.dat
+Total processing time: 4.77958607673645
+Processing configuration 128 with mode: angle and atom indices: [220, 266, 45]
+Angle at first step for configuration 128: 108.76 deg
+Geometry data for configuration 128 written to geo_128.dat
+Fourier Transform data for configuration 128 written to output_128.dat
+Total processing time: 4.5692524909973145
+Processing configuration 189 with mode: angle and atom indices: [248, 272, 57]
+Angle at first step for configuration 189: 110.08 deg
+Geometry data for configuration 189 written to geo_189.dat
+Fourier Transform data for configuration 189 written to output_189.dat
+Total processing time: 4.5634589195251465
+Processing configuration 166 with mode: angle and atom indices: [241, 270, 243]
+Angle at first step for configuration 166: 109.43 deg
+Geometry data for configuration 166 written to geo_166.dat
+Fourier Transform data for configuration 166 written to output_166.dat
+Total processing time: 4.579057216644287
+Processing configuration 160 with mode: angle and atom indices: [240, 269, 59]
+Angle at first step for configuration 160: 113.08 deg
+Geometry data for configuration 160 written to geo_160.dat
+Fourier Transform data for configuration 160 written to output_160.dat
+Total processing time: 4.603563547134399
+Processing configuration 192 with mode: bond and atom indices: [273, 252]
+Bond length at first step for configuration 192: 1.10 A
+Geometry data for configuration 192 written to geo_192.dat
+Fourier Transform data for configuration 192 written to output_192.dat
+Total processing time: 5.404799222946167
+Processing configuration 197 with mode: angle and atom indices: [252, 273, 253]
+Angle at first step for configuration 197: 108.68 deg
+Geometry data for configuration 197 written to geo_197.dat
+Fourier Transform data for configuration 197 written to output_197.dat
+Total processing time: 4.486533164978027
+Processing configuration 208 with mode: angle and atom indices: [254, 274, 62]
+Angle at first step for configuration 208: 108.70 deg
+Geometry data for configuration 208 written to geo_208.dat
+Fourier Transform data for configuration 208 written to output_208.dat
+Total processing time: 4.472598552703857
+Processing configuration 221 with mode: angle and atom indices: [173, 3, 265]
+Angle at first step for configuration 221: 106.96 deg
+Geometry data for configuration 221 written to geo_221.dat
+Fourier Transform data for configuration 221 written to output_221.dat
+Total processing time: 4.501779556274414
+Processing configuration 58 with mode: bond and atom indices: [250, 182]
+Bond length at first step for configuration 58: 0.99 A
+Geometry data for configuration 58 written to geo_58.dat
+Fourier Transform data for configuration 58 written to output_58.dat
+Total processing time: 4.41148567199707
+Processing configuration 74 with mode: bond and atom indices: [261, 27]
+Bond length at first step for configuration 74: 1.85 A
+Geometry data for configuration 74 written to geo_74.dat
+Fourier Transform data for configuration 74 written to output_74.dat
+Total processing time: 4.393387794494629
+Processing configuration 75 with mode: angle and atom indices: [204, 261, 205]
+Angle at first step for configuration 75: 107.58 deg
+Geometry data for configuration 75 written to geo_75.dat
+Fourier Transform data for configuration 75 written to output_75.dat
+Total processing time: 4.5288262367248535
+Processing configuration 228 with mode: angle and atom indices: [180, 45, 266]
+Angle at first step for configuration 228: 107.00 deg
+Geometry data for configuration 228 written to geo_228.dat
+Fourier Transform data for configuration 228 written to output_228.dat
+Total processing time: 4.596270322799683
+Processing configuration 101 with mode: bond and atom indices: [264, 213]
+Bond length at first step for configuration 101: 1.10 A
+Geometry data for configuration 101 written to geo_101.dat
+Fourier Transform data for configuration 101 written to output_101.dat
+Total processing time: 4.431652069091797
+Processing configuration 91 with mode: bond and atom indices: [263, 210]
+Bond length at first step for configuration 91: 1.10 A
+Geometry data for configuration 91 written to geo_91.dat
+Fourier Transform data for configuration 91 written to output_91.dat
+Total processing time: 4.451018810272217
+Processing configuration 55 with mode: bond and atom indices: [234, 191]
+Bond length at first step for configuration 55: 0.98 A
+Geometry data for configuration 55 written to geo_55.dat
+Fourier Transform data for configuration 55 written to output_55.dat
+Total processing time: 4.7812066078186035
+Processing configuration 100 with mode: angle and atom indices: [212, 263, 33]
+Angle at first step for configuration 100: 111.37 deg
+Geometry data for configuration 100 written to geo_100.dat
+Fourier Transform data for configuration 100 written to output_100.dat
+Total processing time: 4.522220611572266
+Processing configuration 133 with mode: bond and atom indices: [267, 225]
+Bond length at first step for configuration 133: 1.09 A
+Geometry data for configuration 133 written to geo_133.dat
+Fourier Transform data for configuration 133 written to output_133.dat
+Total processing time: 4.517920017242432
+Processing configuration 137 with mode: angle and atom indices: [224, 267, 225]
+Angle at first step for configuration 137: 107.31 deg
+Geometry data for configuration 137 written to geo_137.dat
+Fourier Transform data for configuration 137 written to output_137.dat
+Total processing time: 4.5202178955078125
+Processing configuration 193 with mode: bond and atom indices: [273, 253]
+Bond length at first step for configuration 193: 1.08 A
+Geometry data for configuration 193 written to geo_193.dat
+Fourier Transform data for configuration 193 written to output_193.dat
+Total processing time: 4.435482740402222
+Processing configuration 191 with mode: bond and atom indices: [273, 251]
+Bond length at first step for configuration 191: 1.09 A
+Geometry data for configuration 191 written to geo_191.dat
+Fourier Transform data for configuration 191 written to output_191.dat
+Total processing time: 4.477917194366455
+Processing configuration 162 with mode: bond and atom indices: [270, 242]
+Bond length at first step for configuration 162: 1.10 A
+Geometry data for configuration 162 written to geo_162.dat
+Fourier Transform data for configuration 162 written to output_162.dat
+Total processing time: 4.516043186187744
+Processing configuration 130 with mode: angle and atom indices: [222, 266, 45]
+Angle at first step for configuration 130: 111.95 deg
+Geometry data for configuration 130 written to geo_130.dat
+Fourier Transform data for configuration 130 written to output_130.dat
+Total processing time: 4.556539058685303
+Processing configuration 153 with mode: bond and atom indices: [269, 240]
+Bond length at first step for configuration 153: 1.09 A
+Geometry data for configuration 153 written to geo_153.dat
+Fourier Transform data for configuration 153 written to output_153.dat
+Total processing time: 4.541433334350586
+Processing configuration 37 with mode: bond and atom indices: [228, 185]
+Bond length at first step for configuration 37: 0.96 A
+Geometry data for configuration 37 written to geo_37.dat
+Fourier Transform data for configuration 37 written to output_37.dat
+Total processing time: 4.433209657669067
+Processing configuration 64 with mode: bond and atom indices: [260, 21]
+Bond length at first step for configuration 64: 1.84 A
+Geometry data for configuration 64 written to geo_64.dat
+Fourier Transform data for configuration 64 written to output_64.dat
+Total processing time: 4.412301063537598
+Processing configuration 223 with mode: angle and atom indices: [175, 15, 264]
+Angle at first step for configuration 223: 107.80 deg
+Geometry data for configuration 223 written to geo_223.dat
+Fourier Transform data for configuration 223 written to output_223.dat
+Total processing time: 4.514410972595215
+Processing configuration 207 with mode: angle and atom indices: [255, 274, 256]
+Angle at first step for configuration 207: 109.14 deg
+Geometry data for configuration 207 written to geo_207.dat
+Fourier Transform data for configuration 207 written to output_207.dat
+Total processing time: 4.539213418960571
+Processing configuration 161 with mode: bond and atom indices: [270, 241]
+Bond length at first step for configuration 161: 1.11 A
+Geometry data for configuration 161 written to geo_161.dat
+Fourier Transform data for configuration 161 written to output_161.dat
+Total processing time: 4.443969011306763
+Processing configuration 82 with mode: bond and atom indices: [262, 208]
+Bond length at first step for configuration 82: 1.11 A
+Geometry data for configuration 82 written to geo_82.dat
+Fourier Transform data for configuration 82 written to output_82.dat
+Total processing time: 4.470507621765137
+Processing configuration 81 with mode: bond and atom indices: [262, 207]
+Bond length at first step for configuration 81: 1.09 A
+Geometry data for configuration 81 written to geo_81.dat
+Fourier Transform data for configuration 81 written to output_81.dat
+Total processing time: 4.479161977767944
+Processing configuration 51 with mode: angle and atom indices: [232, 189, 61]
+Angle at first step for configuration 51: 116.94 deg
+Geometry data for configuration 51 written to geo_51.dat
+Fourier Transform data for configuration 51 written to output_51.dat
+Total processing time: 4.582230806350708
+Processing configuration 136 with mode: angle and atom indices: [223, 267, 225]
+Angle at first step for configuration 136: 108.59 deg
+Geometry data for configuration 136 written to geo_136.dat
+Fourier Transform data for configuration 136 written to output_136.dat
+Total processing time: 4.537572383880615
+Processing configuration 159 with mode: angle and atom indices: [239, 269, 59]
+Angle at first step for configuration 159: 108.78 deg
+Geometry data for configuration 159 written to geo_159.dat
+Fourier Transform data for configuration 159 written to output_159.dat
+Total processing time: 4.55391001701355
+Processing configuration 87 with mode: angle and atom indices: [208, 262, 209]
+Angle at first step for configuration 87: 107.83 deg
+Geometry data for configuration 87 written to geo_87.dat
+Fourier Transform data for configuration 87 written to output_87.dat
+Total processing time: 4.56416916847229
+Processing configuration 127 with mode: angle and atom indices: [221, 266, 222]
+Angle at first step for configuration 127: 108.37 deg
+Geometry data for configuration 127 written to geo_127.dat
+Fourier Transform data for configuration 127 written to output_127.dat
+Total processing time: 4.593039035797119
+Processing configuration 217 with mode: angle and atom indices: [258, 275, 259]
+Angle at first step for configuration 217: 107.39 deg
+Geometry data for configuration 217 written to geo_217.dat
+Fourier Transform data for configuration 217 written to output_217.dat
+Total processing time: 4.955549716949463
+Processing configuration 164 with mode: bond and atom indices: [270, 63]
+Bond length at first step for configuration 164: 1.84 A
+Geometry data for configuration 164 written to geo_164.dat
+Fourier Transform data for configuration 164 written to output_164.dat
+Total processing time: 5.087595224380493
+Processing configuration 201 with mode: bond and atom indices: [274, 254]
+Bond length at first step for configuration 201: 1.10 A
+Geometry data for configuration 201 written to geo_201.dat
+Fourier Transform data for configuration 201 written to output_201.dat
+Total processing time: 4.435617446899414
+Processing configuration 196 with mode: angle and atom indices: [251, 273, 253]
+Angle at first step for configuration 196: 108.23 deg
+Geometry data for configuration 196 written to geo_196.dat
+Fourier Transform data for configuration 196 written to output_196.dat
+Total processing time: 4.568138360977173
+Processing configuration 198 with mode: angle and atom indices: [251, 273, 55]
+Angle at first step for configuration 198: 109.52 deg
+Geometry data for configuration 198 written to geo_198.dat
+Fourier Transform data for configuration 198 written to output_198.dat
+Total processing time: 4.627460241317749
+Processing configuration 41 with mode: bond and atom indices: [186, 58]
+Bond length at first step for configuration 41: 1.63 A
+Geometry data for configuration 41 written to geo_41.dat
+Fourier Transform data for configuration 41 written to output_41.dat
+Total processing time: 4.414057016372681
+Processing configuration 237 with mode: angle and atom indices: [190, 62, 274]
+Angle at first step for configuration 237: 106.11 deg
+Geometry data for configuration 237 written to geo_237.dat
+Fourier Transform data for configuration 237 written to output_237.dat
+Total processing time: 4.532370090484619
+Processing configuration 65 with mode: angle and atom indices: [201, 260, 202]
+Angle at first step for configuration 65: 107.21 deg
+Geometry data for configuration 65 written to geo_65.dat
+Fourier Transform data for configuration 65 written to output_65.dat
+Total processing time: 4.620097398757935
+Processing configuration 46 with mode: bond and atom indices: [231, 188]
+Bond length at first step for configuration 46: 0.97 A
+Geometry data for configuration 46 written to geo_46.dat
+Fourier Transform data for configuration 46 written to output_46.dat
+Total processing time: 4.449502468109131
+Processing configuration 99 with mode: angle and atom indices: [211, 263, 33]
+Angle at first step for configuration 99: 109.94 deg
+Geometry data for configuration 99 written to geo_99.dat
+Fourier Transform data for configuration 99 written to output_99.dat
+Total processing time: 4.611384391784668
+Processing configuration 103 with mode: bond and atom indices: [264, 215]
+Bond length at first step for configuration 103: 1.10 A
+Geometry data for configuration 103 written to geo_103.dat
+Fourier Transform data for configuration 103 written to output_103.dat
+Total processing time: 4.564932107925415
+Processing configuration 215 with mode: angle and atom indices: [257, 275, 258]
+Angle at first step for configuration 215: 108.09 deg
+Geometry data for configuration 215 written to geo_215.dat
+Fourier Transform data for configuration 215 written to output_215.dat
+Total processing time: 4.834725379943848
+Processing configuration 106 with mode: angle and atom indices: [213, 264, 215]
+Angle at first step for configuration 106: 109.24 deg
+Geometry data for configuration 106 written to geo_106.dat
+Fourier Transform data for configuration 106 written to output_106.dat
+Total processing time: 4.508533239364624
+Processing configuration 150 with mode: angle and atom indices: [237, 268, 58]
+Angle at first step for configuration 150: 113.15 deg
+Geometry data for configuration 150 written to geo_150.dat
+Fourier Transform data for configuration 150 written to output_150.dat
+Total processing time: 4.592654705047607
+Processing configuration 147 with mode: angle and atom indices: [236, 268, 237]
+Angle at first step for configuration 147: 107.79 deg
+Geometry data for configuration 147 written to geo_147.dat
+Fourier Transform data for configuration 147 written to output_147.dat
+Total processing time: 4.735811948776245
+Processing configuration 232 with mode: angle and atom indices: [185, 57, 272]
+Angle at first step for configuration 232: 107.20 deg
+Geometry data for configuration 232 written to geo_232.dat
+Fourier Transform data for configuration 232 written to output_232.dat
+Total processing time: 4.487967014312744
+Processing configuration 224 with mode: angle and atom indices: [176, 21, 260]
+Angle at first step for configuration 224: 106.94 deg
+Geometry data for configuration 224 written to geo_224.dat
+Fourier Transform data for configuration 224 written to output_224.dat
+Total processing time: 4.487723350524902
+Processing configuration 206 with mode: angle and atom indices: [254, 274, 256]
+Angle at first step for configuration 206: 109.99 deg
+Geometry data for configuration 206 written to geo_206.dat
+Fourier Transform data for configuration 206 written to output_206.dat
+Total processing time: 4.509937763214111
+Processing configuration 167 with mode: angle and atom indices: [242, 270, 243]
+Angle at first step for configuration 167: 108.27 deg
+Geometry data for configuration 167 written to geo_167.dat
+Fourier Transform data for configuration 167 written to output_167.dat
+Total processing time: 4.566122055053711
+Processing configuration 179 with mode: angle and atom indices: [245, 271, 60]
+Angle at first step for configuration 179: 110.99 deg
+Geometry data for configuration 179 written to geo_179.dat
+Fourier Transform data for configuration 179 written to output_179.dat
+Total processing time: 4.570898771286011
+Processing configuration 35 with mode: bond and atom indices: [184, 56]
+Bond length at first step for configuration 35: 1.62 A
+Geometry data for configuration 35 written to geo_35.dat
+Fourier Transform data for configuration 35 written to output_35.dat
+Total processing time: 4.381141185760498
+Processing configuration 88 with mode: angle and atom indices: [207, 262, 51]
+Angle at first step for configuration 88: 109.23 deg
+Geometry data for configuration 88 written to geo_88.dat
+Fourier Transform data for configuration 88 written to output_88.dat
+Total processing time: 4.514524459838867
+Processing configuration 72 with mode: bond and atom indices: [261, 205]
+Bond length at first step for configuration 72: 1.09 A
+Geometry data for configuration 72 written to geo_72.dat
+Fourier Transform data for configuration 72 written to output_72.dat
+Total processing time: 4.5056188106536865
+Processing configuration 53 with mode: bond and atom indices: [190, 62]
+Bond length at first step for configuration 53: 1.67 A
+Geometry data for configuration 53 written to geo_53.dat
+Fourier Transform data for configuration 53 written to output_53.dat
+Total processing time: 4.429611921310425
+Processing configuration 123 with mode: bond and atom indices: [266, 222]
+Bond length at first step for configuration 123: 1.10 A
+Geometry data for configuration 123 written to geo_123.dat
+Fourier Transform data for configuration 123 written to output_123.dat
+Total processing time: 4.472816705703735
+Processing configuration 105 with mode: angle and atom indices: [213, 264, 214]
+Angle at first step for configuration 105: 106.57 deg
+Geometry data for configuration 105 written to geo_105.dat
+Fourier Transform data for configuration 105 written to output_105.dat
+Total processing time: 4.567554950714111
+Processing configuration 231 with mode: angle and atom indices: [184, 56, 182]
+Angle at first step for configuration 231: 105.59 deg
+Geometry data for configuration 231 written to geo_231.dat
+Fourier Transform data for configuration 231 written to output_231.dat
+Total processing time: 4.50745701789856
+Processing configuration 135 with mode: angle and atom indices: [223, 267, 224]
+Angle at first step for configuration 135: 106.76 deg
+Geometry data for configuration 135 written to geo_135.dat
+Fourier Transform data for configuration 135 written to output_135.dat
+Total processing time: 4.557539701461792
+Processing configuration 109 with mode: angle and atom indices: [214, 264, 15]
+Angle at first step for configuration 109: 110.08 deg
+Geometry data for configuration 109 written to geo_109.dat
+Fourier Transform data for configuration 109 written to output_109.dat
+Total processing time: 4.577951431274414
+Processing configuration 190 with mode: angle and atom indices: [249, 272, 57]
+Angle at first step for configuration 190: 113.28 deg
+Geometry data for configuration 190 written to geo_190.dat
+Fourier Transform data for configuration 190 written to output_190.dat
+Total processing time: 4.600963592529297
+Processing configuration 204 with mode: bond and atom indices: [274, 62]
+Bond length at first step for configuration 204: 1.84 A
+Geometry data for configuration 204 written to geo_204.dat
+Fourier Transform data for configuration 204 written to output_204.dat
+Total processing time: 4.624067544937134
+Processing configuration 45 with mode: angle and atom indices: [230, 187, 59]
+Angle at first step for configuration 45: 116.21 deg
+Geometry data for configuration 45 written to geo_45.dat
+Fourier Transform data for configuration 45 written to output_45.dat
+Total processing time: 4.810933351516724
+Processing configuration 174 with mode: bond and atom indices: [271, 60]
+Bond length at first step for configuration 174: 1.84 A
+Geometry data for configuration 174 written to geo_174.dat
+Fourier Transform data for configuration 174 written to output_174.dat
+Total processing time: 4.845844268798828
+Processing configuration 78 with mode: angle and atom indices: [204, 261, 27]
+Angle at first step for configuration 78: 107.84 deg
+Geometry data for configuration 78 written to geo_78.dat
+Fourier Transform data for configuration 78 written to output_78.dat
+Total processing time: 5.005352735519409
+Processing configuration 112 with mode: bond and atom indices: [265, 218]
+Bond length at first step for configuration 112: 1.11 A
+Geometry data for configuration 112 written to geo_112.dat
+Fourier Transform data for configuration 112 written to output_112.dat
+Total processing time: 4.468479633331299
+Processing configuration 111 with mode: bond and atom indices: [265, 217]
+Bond length at first step for configuration 111: 1.09 A
+Geometry data for configuration 111 written to geo_111.dat
+Fourier Transform data for configuration 111 written to output_111.dat
+Total processing time: 4.585407018661499
+Processing configuration 143 with mode: bond and atom indices: [268, 237]
+Bond length at first step for configuration 143: 1.09 A
+Geometry data for configuration 143 written to geo_143.dat
+Fourier Transform data for configuration 143 written to output_143.dat
+Total processing time: 4.440667390823364
+Processing configuration 163 with mode: bond and atom indices: [270, 243]
+Bond length at first step for configuration 163: 1.08 A
+Geometry data for configuration 163 written to geo_163.dat
+Fourier Transform data for configuration 163 written to output_163.dat
+Total processing time: 4.401737451553345
+Processing configuration 214 with mode: bond and atom indices: [275, 61]
+Bond length at first step for configuration 214: 1.85 A
+Geometry data for configuration 214 written to geo_214.dat
+Fourier Transform data for configuration 214 written to output_214.dat
+Total processing time: 4.4621195793151855
+Processing configuration 218 with mode: angle and atom indices: [257, 275, 61]
+Angle at first step for configuration 218: 109.19 deg
+Geometry data for configuration 218 written to geo_218.dat
+Fourier Transform data for configuration 218 written to output_218.dat
+Total processing time: 4.499140739440918
+Processing configuration 194 with mode: bond and atom indices: [273, 55]
+Bond length at first step for configuration 194: 1.84 A
+Geometry data for configuration 194 written to geo_194.dat
+Fourier Transform data for configuration 194 written to output_194.dat
+Total processing time: 4.615312576293945
+Processing configuration 36 with mode: angle and atom indices: [227, 184, 56]
+Angle at first step for configuration 36: 118.40 deg
+Geometry data for configuration 36 written to geo_36.dat
+Fourier Transform data for configuration 36 written to output_36.dat
+Total processing time: 4.474915027618408
+Processing configuration 42 with mode: angle and atom indices: [229, 186, 58]
+Angle at first step for configuration 42: 126.91 deg
+Geometry data for configuration 42 written to geo_42.dat
+Fourier Transform data for configuration 42 written to output_42.dat
+Total processing time: 4.502715826034546
+Processing configuration 96 with mode: angle and atom indices: [210, 263, 212]
+Angle at first step for configuration 96: 109.63 deg
+Geometry data for configuration 96 written to geo_96.dat
+Fourier Transform data for configuration 96 written to output_96.dat
+Total processing time: 4.531506776809692
+Processing configuration 238 with mode: angle and atom indices: [191, 63, 270]
+Angle at first step for configuration 238: 104.00 deg
+Geometry data for configuration 238 written to geo_238.dat
+Fourier Transform data for configuration 238 written to output_238.dat
+Total processing time: 4.590797662734985
+Processing configuration 134 with mode: bond and atom indices: [267, 39]
+Bond length at first step for configuration 134: 1.85 A
+Geometry data for configuration 134 written to geo_134.dat
+Fourier Transform data for configuration 134 written to output_134.dat
+Total processing time: 4.469723463058472
+Processing configuration 154 with mode: bond and atom indices: [269, 59]
+Bond length at first step for configuration 154: 1.85 A
+Geometry data for configuration 154 written to geo_154.dat
+Fourier Transform data for configuration 154 written to output_154.dat
+Total processing time: 4.744096994400024
+Processing configuration 188 with mode: angle and atom indices: [247, 272, 57]
+Angle at first step for configuration 188: 109.09 deg
+Geometry data for configuration 188 written to geo_188.dat
+Fourier Transform data for configuration 188 written to output_188.dat
+Total processing time: 4.4984986782073975
+Processing configuration 59 with mode: bond and atom indices: [182, 56]
+Bond length at first step for configuration 59: 1.64 A
+Geometry data for configuration 59 written to geo_59.dat
+Fourier Transform data for configuration 59 written to output_59.dat
+Total processing time: 4.501162528991699
+Processing configuration 178 with mode: angle and atom indices: [244, 271, 60]
+Angle at first step for configuration 178: 108.56 deg
+Geometry data for configuration 178 written to geo_178.dat
+Fourier Transform data for configuration 178 written to output_178.dat
+Total processing time: 4.549730062484741
+Processing configuration 102 with mode: bond and atom indices: [264, 214]
+Bond length at first step for configuration 102: 1.10 A
+Geometry data for configuration 102 written to geo_102.dat
+Fourier Transform data for configuration 102 written to output_102.dat
+Total processing time: 4.4199934005737305
+Processing configuration 225 with mode: angle and atom indices: [177, 27, 261]
+Angle at first step for configuration 225: 107.06 deg
+Geometry data for configuration 225 written to geo_225.dat
+Fourier Transform data for configuration 225 written to output_225.dat
+Total processing time: 4.6901679039001465
+Processing configuration 34 with mode: bond and atom indices: [227, 184]
+Bond length at first step for configuration 34: 0.97 A
+Geometry data for configuration 34 written to geo_34.dat
+Fourier Transform data for configuration 34 written to output_34.dat
+Total processing time: 4.703410387039185
+Processing configuration 184 with mode: bond and atom indices: [272, 57]
+Bond length at first step for configuration 184: 1.84 A
+Geometry data for configuration 184 written to geo_184.dat
+Fourier Transform data for configuration 184 written to output_184.dat
+Total processing time: 4.396123886108398
+Processing configuration 157 with mode: angle and atom indices: [239, 269, 240]
+Angle at first step for configuration 157: 109.17 deg
+Geometry data for configuration 157 written to geo_157.dat
+Fourier Transform data for configuration 157 written to output_157.dat
+Total processing time: 4.561769247055054
+Processing configuration 226 with mode: angle and atom indices: [178, 33, 263]
+Angle at first step for configuration 226: 105.89 deg
+Geometry data for configuration 226 written to geo_226.dat
+Fourier Transform data for configuration 226 written to output_226.dat
+Total processing time: 4.483272314071655
+Processing configuration 131 with mode: bond and atom indices: [267, 223]
+Bond length at first step for configuration 131: 1.11 A
+Geometry data for configuration 131 written to geo_131.dat
+Fourier Transform data for configuration 131 written to output_131.dat
+Total processing time: 4.46581506729126
+Processing configuration 84 with mode: bond and atom indices: [262, 51]
+Bond length at first step for configuration 84: 1.84 A
+Geometry data for configuration 84 written to geo_84.dat
+Fourier Transform data for configuration 84 written to output_84.dat
+Total processing time: 4.496744632720947
+Processing configuration 120 with mode: angle and atom indices: [219, 265, 3]
+Angle at first step for configuration 120: 111.03 deg
+Geometry data for configuration 120 written to geo_120.dat
+Fourier Transform data for configuration 120 written to output_120.dat
+Total processing time: 4.7778332233428955
+Processing configuration 181 with mode: bond and atom indices: [272, 247]
+Bond length at first step for configuration 181: 1.11 A
+Geometry data for configuration 181 written to geo_181.dat
+Fourier Transform data for configuration 181 written to output_181.dat
+Total processing time: 4.446053504943848
+Processing configuration 54 with mode: angle and atom indices: [233, 190, 62]
+Angle at first step for configuration 54: 112.72 deg
+Geometry data for configuration 54 written to geo_54.dat
+Fourier Transform data for configuration 54 written to output_54.dat
+Total processing time: 4.590061664581299
+Processing configuration 115 with mode: angle and atom indices: [217, 265, 218]
+Angle at first step for configuration 115: 108.14 deg
+Geometry data for configuration 115 written to geo_115.dat
+Fourier Transform data for configuration 115 written to output_115.dat
+Total processing time: 4.504771709442139
+Processing configuration 144 with mode: bond and atom indices: [268, 58]
+Bond length at first step for configuration 144: 1.84 A
+Geometry data for configuration 144 written to geo_144.dat
+Fourier Transform data for configuration 144 written to output_144.dat
+Total processing time: 4.600633859634399
+Processing configuration 213 with mode: bond and atom indices: [275, 259]
+Bond length at first step for configuration 213: 1.09 A
+Geometry data for configuration 213 written to geo_213.dat
+Fourier Transform data for configuration 213 written to output_213.dat
+Total processing time: 4.790757417678833
+Processing configuration 236 with mode: angle and atom indices: [189, 61, 275]
+Angle at first step for configuration 236: 111.65 deg
+Geometry data for configuration 236 written to geo_236.dat
+Fourier Transform data for configuration 236 written to output_236.dat
+Total processing time: 4.656112432479858
+Processing configuration 73 with mode: bond and atom indices: [261, 206]
+Bond length at first step for configuration 73: 1.08 A
+Geometry data for configuration 73 written to geo_73.dat
+Fourier Transform data for configuration 73 written to output_73.dat
+Total processing time: 5.030974388122559
+Processing configuration 118 with mode: angle and atom indices: [217, 265, 3]
+Angle at first step for configuration 118: 110.29 deg
+Geometry data for configuration 118 written to geo_118.dat
+Fourier Transform data for configuration 118 written to output_118.dat
+Total processing time: 4.5676515102386475
+Processing configuration 138 with mode: angle and atom indices: [223, 267, 39]
+Angle at first step for configuration 138: 109.67 deg
+Geometry data for configuration 138 written to geo_138.dat
+Fourier Transform data for configuration 138 written to output_138.dat
+Total processing time: 4.471426010131836
+Processing configuration 202 with mode: bond and atom indices: [274, 255]
+Bond length at first step for configuration 202: 1.10 A
+Geometry data for configuration 202 written to geo_202.dat
+Fourier Transform data for configuration 202 written to output_202.dat
+Total processing time: 4.446037530899048
+Processing configuration 156 with mode: angle and atom indices: [238, 269, 240]
+Angle at first step for configuration 156: 108.53 deg
+Geometry data for configuration 156 written to geo_156.dat
+Fourier Transform data for configuration 156 written to output_156.dat
+Total processing time: 4.473916530609131
+Processing configuration 67 with mode: angle and atom indices: [202, 260, 203]
+Angle at first step for configuration 67: 108.87 deg
+Geometry data for configuration 67 written to geo_67.dat
+Fourier Transform data for configuration 67 written to output_67.dat
+Total processing time: 4.489974498748779
+Processing configuration 113 with mode: bond and atom indices: [265, 219]
+Bond length at first step for configuration 113: 1.09 A
+Geometry data for configuration 113 written to geo_113.dat
+Fourier Transform data for configuration 113 written to output_113.dat
+Total processing time: 4.466329336166382
+Processing configuration 89 with mode: angle and atom indices: [208, 262, 51]
+Angle at first step for configuration 89: 110.33 deg
+Geometry data for configuration 89 written to geo_89.dat
+Fourier Transform data for configuration 89 written to output_89.dat
+Total processing time: 4.686726093292236
+Processing configuration 142 with mode: bond and atom indices: [268, 236]
+Bond length at first step for configuration 142: 1.09 A
+Geometry data for configuration 142 written to geo_142.dat
+Fourier Transform data for configuration 142 written to output_142.dat
+Total processing time: 4.413150072097778
+Processing configuration 186 with mode: angle and atom indices: [247, 272, 249]
+Angle at first step for configuration 186: 108.95 deg
+Geometry data for configuration 186 written to geo_186.dat
+Fourier Transform data for configuration 186 written to output_186.dat
+Total processing time: 4.513001441955566
+Processing configuration 158 with mode: angle and atom indices: [238, 269, 59]
+Angle at first step for configuration 158: 109.24 deg
+Geometry data for configuration 158 written to geo_158.dat
+Fourier Transform data for configuration 158 written to output_158.dat
+Total processing time: 4.593781471252441
+Processing configuration 220 with mode: angle and atom indices: [259, 275, 61]
+Angle at first step for configuration 220: 113.01 deg
+Geometry data for configuration 220 written to geo_220.dat
+Fourier Transform data for configuration 220 written to output_220.dat
+Total processing time: 4.585471153259277
+Processing configuration 145 with mode: angle and atom indices: [235, 268, 236]
+Angle at first step for configuration 145: 108.00 deg
+Geometry data for configuration 145 written to geo_145.dat
+Fourier Transform data for configuration 145 written to output_145.dat
+Total processing time: 4.588354587554932
+Processing configuration 114 with mode: bond and atom indices: [265, 3]
+Bond length at first step for configuration 114: 1.84 A
+Geometry data for configuration 114 written to geo_114.dat
+Fourier Transform data for configuration 114 written to output_114.dat
+Total processing time: 4.323592901229858
+Processing configuration 63 with mode: bond and atom indices: [260, 203]
+Bond length at first step for configuration 63: 1.10 A
+Geometry data for configuration 63 written to geo_63.dat
+Fourier Transform data for configuration 63 written to output_63.dat
+Total processing time: 4.366002559661865
+Processing configuration 71 with mode: bond and atom indices: [261, 204]
+Bond length at first step for configuration 71: 1.09 A
+Geometry data for configuration 71 written to geo_71.dat
+Fourier Transform data for configuration 71 written to output_71.dat
+Total processing time: 5.129775762557983
+Processing configuration 43 with mode: bond and atom indices: [230, 187]
+Bond length at first step for configuration 43: 0.98 A
+Geometry data for configuration 43 written to geo_43.dat
+Fourier Transform data for configuration 43 written to output_43.dat
+Total processing time: 4.505279541015625
+Processing configuration 93 with mode: bond and atom indices: [263, 212]
+Bond length at first step for configuration 93: 1.08 A
+Geometry data for configuration 93 written to geo_93.dat
+Fourier Transform data for configuration 93 written to output_93.dat
+Total processing time: 4.461018085479736
+Processing configuration 216 with mode: angle and atom indices: [257, 275, 259]
+Angle at first step for configuration 216: 108.97 deg
+Geometry data for configuration 216 written to geo_216.dat
+Fourier Transform data for configuration 216 written to output_216.dat
+Total processing time: 4.6036810874938965
+Processing configuration 195 with mode: angle and atom indices: [251, 273, 252]
+Angle at first step for configuration 195: 107.74 deg
+Geometry data for configuration 195 written to geo_195.dat
+Fourier Transform data for configuration 195 written to output_195.dat
+Total processing time: 4.811654329299927
+Processing configuration 122 with mode: bond and atom indices: [266, 221]
+Bond length at first step for configuration 122: 1.09 A
+Geometry data for configuration 122 written to geo_122.dat
+Fourier Transform data for configuration 122 written to output_122.dat
+Total processing time: 4.44319748878479
+Processing configuration 203 with mode: bond and atom indices: [274, 256]
+Bond length at first step for configuration 203: 1.10 A
+Geometry data for configuration 203 written to geo_203.dat
+Fourier Transform data for configuration 203 written to output_203.dat
+Total processing time: 4.407045841217041
+Processing configuration 124 with mode: bond and atom indices: [266, 45]
+Bond length at first step for configuration 124: 1.85 A
+Geometry data for configuration 124 written to geo_124.dat
+Fourier Transform data for configuration 124 written to output_124.dat
+Total processing time: 4.40388298034668
+Processing configuration 151 with mode: bond and atom indices: [269, 238]
+Bond length at first step for configuration 151: 1.10 A
+Geometry data for configuration 151 written to geo_151.dat
+Fourier Transform data for configuration 151 written to output_151.dat
+Total processing time: 4.546266078948975
+Processing configuration 56 with mode: bond and atom indices: [191, 63]
+Bond length at first step for configuration 56: 1.63 A
+Geometry data for configuration 56 written to geo_56.dat
+Fourier Transform data for configuration 56 written to output_56.dat
+Total processing time: 4.487095832824707
+Processing configuration 104 with mode: bond and atom indices: [264, 15]
+Bond length at first step for configuration 104: 1.84 A
+Geometry data for configuration 104 written to geo_104.dat
+Fourier Transform data for configuration 104 written to output_104.dat
+Total processing time: 4.473412275314331
+Processing configuration 139 with mode: angle and atom indices: [224, 267, 39]
+Angle at first step for configuration 139: 110.81 deg
+Geometry data for configuration 139 written to geo_139.dat
+Fourier Transform data for configuration 139 written to output_139.dat
+Total processing time: 4.5144195556640625
+Processing configuration 209 with mode: angle and atom indices: [255, 274, 62]
+Angle at first step for configuration 209: 109.68 deg
+Geometry data for configuration 209 written to geo_209.dat
+Fourier Transform data for configuration 209 written to output_209.dat
+Total processing time: 4.939887046813965
+Processing configuration 234 with mode: angle and atom indices: [187, 59, 269]
+Angle at first step for configuration 234: 108.21 deg
+Geometry data for configuration 234 written to geo_234.dat
+Fourier Transform data for configuration 234 written to output_234.dat
+Total processing time: 4.5334694385528564
+Processing configuration 168 with mode: angle and atom indices: [241, 270, 63]
+Angle at first step for configuration 168: 108.07 deg
+Geometry data for configuration 168 written to geo_168.dat
+Fourier Transform data for configuration 168 written to output_168.dat
+Total processing time: 4.560030221939087
+Processing configuration 110 with mode: angle and atom indices: [215, 264, 15]
+Angle at first step for configuration 110: 113.75 deg
+Geometry data for configuration 110 written to geo_110.dat
+Fourier Transform data for configuration 110 written to output_110.dat
+Total processing time: 4.548307418823242
+Processing configuration 200 with mode: angle and atom indices: [253, 273, 55]
+Angle at first step for configuration 200: 112.66 deg
+Geometry data for configuration 200 written to geo_200.dat
+Fourier Transform data for configuration 200 written to output_200.dat
+Total processing time: 4.624166965484619
+Processing configuration 40 with mode: bond and atom indices: [229, 186]
+Bond length at first step for configuration 40: 0.96 A
+Geometry data for configuration 40 written to geo_40.dat
+Fourier Transform data for configuration 40 written to output_40.dat
+Total processing time: 4.38409423828125
+Processing configuration 69 with mode: angle and atom indices: [202, 260, 21]
+Angle at first step for configuration 69: 109.18 deg
+Geometry data for configuration 69 written to geo_69.dat
+Fourier Transform data for configuration 69 written to output_69.dat
+Total processing time: 4.525692701339722
+Processing configuration 177 with mode: angle and atom indices: [245, 271, 246]
+Angle at first step for configuration 177: 108.80 deg
+Geometry data for configuration 177 written to geo_177.dat
+Fourier Transform data for configuration 177 written to output_177.dat
+Total processing time: 4.909274339675903
+Processing configuration 187 with mode: angle and atom indices: [248, 272, 249]
+Angle at first step for configuration 187: 107.75 deg
+Geometry data for configuration 187 written to geo_187.dat
+Fourier Transform data for configuration 187 written to output_187.dat
+Total processing time: 4.453307628631592
+Processing configuration 205 with mode: angle and atom indices: [254, 274, 255]
+Angle at first step for configuration 205: 109.03 deg
+Geometry data for configuration 205 written to geo_205.dat
+Fourier Transform data for configuration 205 written to output_205.dat
+Total processing time: 4.676905870437622
+Processing configuration 70 with mode: angle and atom indices: [203, 260, 21]
+Angle at first step for configuration 70: 112.18 deg
+Geometry data for configuration 70 written to geo_70.dat
+Fourier Transform data for configuration 70 written to output_70.dat
+Total processing time: 4.443253755569458
+Processing configuration 165 with mode: angle and atom indices: [241, 270, 242]
+Angle at first step for configuration 165: 108.30 deg
+Geometry data for configuration 165 written to geo_165.dat
+Fourier Transform data for configuration 165 written to output_165.dat
+Total processing time: 4.500009536743164
+Processing configuration 173 with mode: bond and atom indices: [271, 246]
+Bond length at first step for configuration 173: 1.11 A
+Geometry data for configuration 173 written to geo_173.dat
+Fourier Transform data for configuration 173 written to output_173.dat
+Total processing time: 4.4314117431640625
+Processing configuration 219 with mode: angle and atom indices: [258, 275, 61]
+Angle at first step for configuration 219: 110.07 deg
+Geometry data for configuration 219 written to geo_219.dat
+Fourier Transform data for configuration 219 written to output_219.dat
+Total processing time: 4.477700710296631
+Processing configuration 125 with mode: angle and atom indices: [220, 266, 221]
+Angle at first step for configuration 125: 107.99 deg
+Geometry data for configuration 125 written to geo_125.dat
+Fourier Transform data for configuration 125 written to output_125.dat
+Total processing time: 4.50824499130249
+Processing configuration 90 with mode: angle and atom indices: [209, 262, 51]
+Angle at first step for configuration 90: 111.53 deg
+Geometry data for configuration 90 written to geo_90.dat
+Fourier Transform data for configuration 90 written to output_90.dat
+Total processing time: 4.426964282989502
+Processing configuration 52 with mode: bond and atom indices: [233, 190]
+Bond length at first step for configuration 52: 0.97 A
+Geometry data for configuration 52 written to geo_52.dat
+Fourier Transform data for configuration 52 written to output_52.dat
+Total processing time: 4.080358028411865
+Processing configuration 79 with mode: angle and atom indices: [205, 261, 27]
+Angle at first step for configuration 79: 109.83 deg
+Geometry data for configuration 79 written to geo_79.dat
+Fourier Transform data for configuration 79 written to output_79.dat
+Total processing time: 4.6374101638793945
+Processing configuration 66 with mode: angle and atom indices: [201, 260, 203]
+Angle at first step for configuration 66: 110.10 deg
+Geometry data for configuration 66 written to geo_66.dat
+Fourier Transform data for configuration 66 written to output_66.dat
+Total processing time: 4.429851293563843
+Processing configuration 199 with mode: angle and atom indices: [252, 273, 55]
+Angle at first step for configuration 199: 109.87 deg
+Geometry data for configuration 199 written to geo_199.dat
+Fourier Transform data for configuration 199 written to output_199.dat
+Total processing time: 4.654303550720215
+All process_simulation.py instances have completed.
+Copying average_output.py into out_tempo folder...
+Changing to out_tempo folder and running average_output.py...
+Averaged FFT output written to output_average.dat
+Final averaged spectra (output_average.dat) copied to main folder.
