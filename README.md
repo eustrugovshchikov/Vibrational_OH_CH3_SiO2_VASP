@@ -112,12 +112,12 @@ If you use this code in your work, please cite it using the following BibTeX ent
 
 ```bibtex
 @misc{strugovshchikov2025vibrational,
-  author       = {Strugovshchikov, E. and Mandrolko, V.},
+  author       = {Strugovshchikov, Evgenii and Mandrolko, Viktor and Lesnicki, Dominika and  Pastore, Mariachiara and Chaput, Laurent and Isaiev, Mykola},
   title        = {{Vibrational\_OH\_CH3\_SiO2\_VASP}},
   year         = {2025},
   howpublished = {GitHub repository},
-  url          = {https://github.com/eustrugovshchikov/Vibrational\_OH\_CH3\_SiO2\_VASP},
-  note         = {Accessed: May 19, 2025},
+  url          = {https://github.com/eustrugovshchikov/Vibrational_OH_CH3_SiO2_VASP},
+  note         = {Accessed: May 28, 2025},
 }
 ```
 
