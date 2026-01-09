@@ -106,18 +106,25 @@ sbatch submit.sh
 After the script runs, the results will be written to `output_average.dat`.
 
 
-## How to Cite
+##How to Cite
 
-If you use this code in your work, please cite it using the following BibTeX entry:
+If you use this script in your work, please cite it as:
 
-```bibtex
-@misc{strugovshchikov2025vibrational,
-  author       = {Strugovshchikov, Evgenii and Mandrolko, Viktor and Lesnicki, Dominika and  Pastore, Mariachiara and Chaput, Laurent and Isaiev, Mykola},
-  title        = {{Vibrational\_OH\_CH3\_SiO2\_VASP}},
-  year         = {2025},
-  howpublished = {GitHub repository},
-  url          = {https://github.com/eustrugovshchikov/Vibrational_OH_CH3_SiO2_VASP},
-  note         = {Accessed: May 28, 2025},
+```bash
+@article{Strugovshchikov2025,
+  title = {Interfacial behavior from the atomic blueprint: Machine learning-guided design of spatially functionalized $\alpha$-$SiO_2$ surfaces},
+  volume = {702},
+  ISSN = {0021-9797},
+  url = {http://dx.doi.org/10.1016/j.jcis.2025.138943},
+  DOI = {10.1016/j.jcis.2025.138943},
+  keywords={J},
+  journal = {Journal of Colloid and Interface Science},
+  publisher = {Elsevier BV},
+  author = {\textbf{Strugovshchikov,  Evgenii} and Mandrolko,  Viktor and Lesnicki,  Dominika and Pastore,  Mariachiara and Chaput,  Laurent and Isaiev,  Mykola},
+  year = {2026},
+  month = jan,
+  pages = {138943}
 }
 ```
 
+The script was developed during the work leading to this publication and reflect the data generation and analysis workflow used therein.
